@@ -69,9 +69,6 @@ Dog pose may slightly differ
 Adjustment Prompt:
 “A medium-sized short-haired brown dog, facing forward, with a relaxed sitting pose.”
 
-<img width="732" height="724" alt="Screenshot 2025-11-28 232938" src="https://github.com/user-attachments/assets/5fa70271-380a-4da0-9438-2d664e3091e9" />
-
-
 IMAGE 2 — Example: A Coffee Cup With a Sugar Cube
 Step 1: Analyze the Given Image
 
@@ -133,9 +130,6 @@ Wood texture may differ
 
 Cup shape may need refinement
 
-<img width="798" height="825" alt="Screenshot 2025-11-28 232843" src="https://github.com/user-attachments/assets/0eef1685-f14f-4e47-8ef1-3716c329db72" />
-
-
 ## Tools/LLMs for Image Generation:
 DALL·E – high realism and detail
 
@@ -180,3 +174,7 @@ This demonstrates the importance of prompt engineering and iteration when workin
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+<img width="732" height="724" alt="Screenshot 2025-11-28 232938" src="https://github.com/user-attachments/assets/e77859fe-b2a2-4001-b4fe-c5a6dff4177b" />
+<img width="798" height="825" alt="Screenshot 2025-11-28 232843" src="https://github.com/user-attachments/assets/e10c0a3a-33eb-49a9-a13a-dad9b2468baa" />
+
